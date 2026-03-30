@@ -1,1 +1,1 @@
-# It is the new repo named repo
+# It is the new repo named repository
